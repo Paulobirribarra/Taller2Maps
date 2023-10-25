@@ -1,0 +1,12 @@
+<resources>
+    <string name="txtLongitud"></string>
+    <string name="txtLatitud"></string>
+    <string name="btnVideo">Video Promocional</string>
+    <string name="app_name">Maps</string>
+
+    <string name="txtVideo">Vídeo promocional carrera</string>
+    <string name="btnVideoBack">Volver</string>
+    <string name="btnLogin">Iniciar</string>
+    <string name="txtApp">Bienvenido a GEO Referencias de sedes Santo Tómas en Chile</string>
+
+</resources>
